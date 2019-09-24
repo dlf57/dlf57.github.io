@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dakota Folmsbee"
+title                    : "dlf57"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dakota Folmsbee"
@@ -108,14 +108,11 @@ analytics:
 # Site Author
 author:
   name             : "Dakota Folmsbee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chemistry Graduate Student @ University of Pittsburgh"
+  avatar           : "/assets/images/dlf.png"
+  bio              : "Chemistry Graduate Student at the University of Pittsburgh"
   location         : "Pittsburgh, PA"
   email            : "dfolmsbee@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dfolmsbee@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dlf57"
