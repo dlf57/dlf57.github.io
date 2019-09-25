@@ -6,6 +6,8 @@ date:   2019-09-24
 categories: pages
 ---
 
+These are side projects that I work on or have worked on outside of my research project.
+
 ## Current Projects
 ### [chemreps](https://github.com/chemreps/chemreps)
 chemreps is a python library for creating molecular representations for machine learning in chemistry. Currently the library contains basic machine learning representations that we have coded from literature with more on the way.
