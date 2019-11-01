@@ -6,8 +6,12 @@ date:   2019-09-25
 categories: projects
 author_profile: true
 ---
-<img src="/assets/images/chemreps.png" width="500"/>
-## [chemreps](https://github.com/chemreps/chemreps)
+<div style="font-size:0;">
+    <img src="/assets/images/chemreps.svg" width="300">
+</div>
+<a style="clear:left;font-size:45px;"  href="https://github.com/chemreps/chemreps">chemreps </a>
+
+-----------
 
 chemreps has moved on to the beta stage. We are currently working on [more representations](https://github.com/chemreps/chemreps/projects/1) that will be included in the first official release.    
 

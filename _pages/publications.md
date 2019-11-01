@@ -5,7 +5,7 @@ permalink: /publications/
 date:   2019-09-25
 categories: pages
 2019_chemreps_zenodo:
-  - image_path: /assets/images/chemreps.png
+  - image_path: /assets/images/chemreps.svg
     alt: "2019_chemreps_zenodo"
     title: "chemreps/chemreps: Molecular Machine Learning Representations"
     excerpt: "**1.** [D. Folmsbee, S. Upadhyay, A. Dumi, D. Hiener, & D. Mulvey. (2019, July 12). chemreps/chemreps: Molecular Machine Learning Representations(Version 0.1.1). Zenodo.](http://doi.org/10.5281/zenodo.3333856)"
