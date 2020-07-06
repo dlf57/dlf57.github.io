@@ -5,6 +5,8 @@ excerpt: "chemreps is now in beta!"
 date:   2019-09-25
 categories: projects
 author_profile: true
+header:
+    teaser: /assets/images/chemreps.svg
 ---
 <div style="font-size:0;">
     <img src="/assets/images/chemreps.svg" width="300">
