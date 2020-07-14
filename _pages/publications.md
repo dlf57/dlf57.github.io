@@ -4,17 +4,17 @@ title:  "Publications"
 permalink: /publications/
 date:   2020-03-05
 categories: pages
-2020_conformer_benchmark_chemrxiv:
-  - image_path: /assets/images/conf-toc.png
+2020_conformer_benchmark:
+  - image_path: /assets/images/conf-ToC.png
     alt: "2020_conformer-benchmark"
     title: "Assessing Conformer Energies using Electronic Structure and Machine Learning Methods"
-    excerpt: "**1.** [D. Folmsbee and G. Hutchison. (2020, March). Assessing Conformer Energies using Electronic Structure and Machine Learning Methods. ChemRxiv.](https://chemrxiv.org/articles/Assessing_Conformer_Energies_using_Electronic_Structure_and_Machine_Learning_Methods/11920914)"
+    excerpt: "**2.** [Folmsbee, D, Hutchison, G. Assessing conformer energies using electronic structure and machine learning methods. Int J Quantum Chem. 2020.](https://doi.org/10.1002/qua.26381)"
 
 2019_chemreps_zenodo:
   - image_path: /assets/images/chemreps.svg
     alt: "2019_chemreps_zenodo"
     title: "chemreps/chemreps: Molecular Machine Learning Representations"
-    excerpt: "**2.** [D. Folmsbee, S. Upadhyay, A. Dumi, D. Hiener, & D. Mulvey. (2019, July 12). chemreps/chemreps: Molecular Machine Learning Representations(Version 0.1.1). Zenodo.](http://doi.org/10.5281/zenodo.3333856)"
+    excerpt: "**1.** [D. Folmsbee, S. Upadhyay, A. Dumi, D. Hiener, & D. Mulvey. (2019, July 12). chemreps/chemreps: Molecular Machine Learning Representations(Version 0.1.1). Zenodo.](http://doi.org/10.5281/zenodo.3333856)"
 ---
 <p> </p>
 
@@ -30,7 +30,7 @@ Publications
 </table>
 
 ## 2020
-{% include feature_row id="2020_conformer_benchmark_chemrxiv" type="left" %}
+{% include feature_row id="2020_conformer_benchmark" type="left" %}
 
 ## 2019
 
