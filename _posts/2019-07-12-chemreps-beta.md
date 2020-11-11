@@ -6,10 +6,10 @@ date:   2019-09-25
 categories: projects
 author_profile: true
 header:
-    teaser: /assets/images/chemreps.svg
+    teaser: /assets/images/chemreps.png
 ---
 <div style="font-size:0;">
-    <img src="/assets/images/chemreps.svg" width="300">
+    <img src="/assets/images/chemreps.png" width="300">
 </div>
 <a style="clear:left;font-size:45px;"  href="https://github.com/chemreps/chemreps">chemreps </a>
 

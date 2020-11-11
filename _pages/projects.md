@@ -11,7 +11,7 @@ These are side projects that I work on or have worked on outside of my research 
 ## Current Projects
 
 <div style="font-size:0;">
-    <img src="/assets/images/chemreps.svg" width="200">
+    <img src="/assets/images/chemreps.png" width="200">
 </div>
 <a style="clear:left;font-size:25px;"  href="https://github.com/chemreps/chemreps"><b>chemreps</b> </a>   
 <!-- ### [chemreps](https://github.com/chemreps/chemreps)

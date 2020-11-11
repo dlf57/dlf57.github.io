@@ -4,14 +4,20 @@ title:  "Publications"
 permalink: /publications/
 date:   2020-03-05
 categories: pages
+2020_ml_benchmark:
+  - image_path: /assets/images/CNN-ToC.png
+    alt: "2020_ml-benchmark"
+    title: "Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization"
+    excerpt: "**3.** [Folmsbee, D., Koes, D., Hutchison, G. Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization. ChemRxiv preprint 2020.](https://doi.org/10.26434/chemrxiv.13029437.v1)"
+
 2020_conformer_benchmark:
   - image_path: /assets/images/conf-ToC.png
     alt: "2020_conformer-benchmark"
     title: "Assessing Conformer Energies using Electronic Structure and Machine Learning Methods"
-    excerpt: "**2.** [Folmsbee, D, Hutchison, G. Assessing conformer energies using electronic structure and machine learning methods. Int J Quantum Chem. 2020.](https://doi.org/10.1002/qua.26381)"
+    excerpt: "**2.** [Folmsbee, D., Hutchison, G. Assessing conformer energies using electronic structure and machine learning methods. Int J Quantum Chem. 2020.](https://doi.org/10.1002/qua.26381)"
 
 2019_chemreps_zenodo:
-  - image_path: /assets/images/chemreps.svg
+  - image_path: /assets/images/chemreps.png
     alt: "2019_chemreps_zenodo"
     title: "chemreps/chemreps: Molecular Machine Learning Representations"
     excerpt: "**1.** [D. Folmsbee, S. Upadhyay, A. Dumi, D. Hiener, & D. Mulvey. (2019, July 12). chemreps/chemreps: Molecular Machine Learning Representations(Version 0.1.1). Zenodo.](http://doi.org/10.5281/zenodo.3333856)"
@@ -30,6 +36,7 @@ Publications
 </table>
 
 ## 2020
+{% include feature_row id="2020_ml_benchmark" type="left" %}
 {% include feature_row id="2020_conformer_benchmark" type="left" %}
 
 ## 2019
