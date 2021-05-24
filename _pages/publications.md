@@ -4,11 +4,11 @@ title:  "Publications"
 permalink: /publications/
 date:   2020-03-05
 categories: pages
-2020_ml_benchmark:
+2021_ml_benchmark:
   - image_path: /assets/images/CNN-ToC.png
-    alt: "2020_ml-benchmark"
+    alt: "2021_ml-benchmark"
     title: "Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization"
-    excerpt: "**3.** [Folmsbee, D., Koes, D., Hutchison, G. Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization. ChemRxiv preprint 2020.](https://doi.org/10.26434/chemrxiv.13029437.v1)"
+    excerpt: "**3.** [Folmsbee, D., Koes, D., Hutchison, G. Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization. J. Phys. Chem. A. 2021.](https://doi.org/10.1021/acs.jpca.0c10147)"
 
 2020_conformer_benchmark:
   - image_path: /assets/images/conf-ToC.png
@@ -29,14 +29,17 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2021" class="btn btn--info">2021</a></th>
     <th><a href="#2020" class="btn btn--info">2020</a></th>
     <th><a href="#2019" class="btn btn--info">2019</a></th>
 
   </tr>
 </table>
 
+## 2021
+{% include feature_row id="2021_ml_benchmark" type="left" %}
+
 ## 2020
-{% include feature_row id="2020_ml_benchmark" type="left" %}
 {% include feature_row id="2020_conformer_benchmark" type="left" %}
 
 ## 2019
