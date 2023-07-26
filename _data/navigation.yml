@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Resume"
+    url: "/assets/pdf/dlf57-resume.pdf"
   - title: "CV"
     url: "/assets/pdf/dlf57-cv.pdf"
 
