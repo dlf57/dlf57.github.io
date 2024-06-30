@@ -9,15 +9,16 @@ categories: pages
 <img src="/assets/images/colton-dakota.jpg" width="150"/>
 
 
-I was born in Vermont and still go back to visit my family, especially my younger brother, Colton (featured in the image above). It is always great to go back home to the beautiful scenery and explore the Green Mountains, just brace yourself for winters. 
+I am a computational chemist with expertise in materials and drug discovery. Currently, I develop and apply computational tools to discover and analyze novel materials.
 
-I received my bachelors in Chemistry from Clarkson University in upstate New York. While surviving the freezing cold winters there, I started doing nanomaterial research and later on switched to organic synthesis research. This is where I give props to my friends in synthesis, if I ever see another column again, it will be too soon. 
+I earned my PhD in Physical Chemistry from the University of Pittsburgh in 2022. Before that, I completed my undergraduate studies in Chemistry at Clarkson University, where I was honored with the 2015 Walsh Fellow award.
 
-In early 2022 I defended my Ph.D. I had been studying Computational/Physical Chemistry at the University of Pittsburgh. A lot of my work involved applying machine learning to search techniques to find the needle in the haystack. In this case my needle is a molecule with optimal organic dielectric properties and my haystack is chemical space.
+Throughout my academic journey, I have been deeply involved in various aspects of chemistry research. During my postdoctoral tenure, I focused on analyzing protein systems to develop a comprehensive structural understanding for improved virtual screening. My graduate studies aimed to enhance the applicability of machine learning in solving chemical problems. Additionally, I worked on refining conformer generation processes to improve the accuracy and efficiency of computational chemistry methodologies.
 
-After defending my Ph.D., I started a Postdoc at the University of Pittsburgh where I transitioned my knowledge of materials discovery into applications of drug discovery. I have now become more familiar with molecular dynamics and enhanced sampling methods as well as how machine learning can be applied in a computational biology setting. 
+As an undergraduate researcher, I specialized in synthesizing conjugated drug linkers for cancer research, gaining valuable insights into chemical synthesis and its applications in life sciences.
 
-I have been enjoying Pittsburgh quite a bit. My wife and I are quite happy with this being our home for the time being. The weather change from upstate NY and Vermont is very nice even if it is only 10 or so degrees warmer. The city is a lot cleaner and nicer than my high school US History textbook had lead me to believe.
+I have also actively contributed to the academic community. I served as a General Chemistry Teaching Assistant at both the University of Pittsburgh and Clarkson University. Additionally, I mentored students in freshman chemistry laboratories at Clarkson University, fostering a passion for chemistry among budding scientists.
 
-I spend a lot of my free time tinkering with my computer from physical components to trying out and modifying software. I also spend a lot of time playing around with Rasbperry Pis, with my most recent project setting up a [Pi-hole](https://pi-hole.net/) and with a [ClusterHAT](https://www.raspberrypi.org/magpi/clusterhat-review-cluster-hat-kit/) being an upcoming project. 
+Outside academia, I achieved the rank of Eagle Scout in May 2012, exemplifying my dedication to leadership, teamwork, and personal development.
 
+I am enthusiastic about exploring new challenges and collaborative opportunities in computational chemistry, materials science, and biology.

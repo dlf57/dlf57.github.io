@@ -8,7 +8,7 @@ categories: pages
 
 These are side projects that I work on or have worked on outside of my research project.
 
-## Current Projects
+## Previous Projects
 
 <div style="font-size:0;">
     <img src="/assets/images/chemreps.png" width="200">
@@ -18,6 +18,5 @@ These are side projects that I work on or have worked on outside of my research 
 <img src="/assets/images/chemreps.svg" width="200"/>    -->
 chemreps is a python library for creating molecular representations for machine learning in chemistry. Currently the library contains basic machine learning representations that we have coded from literature with more on the way.
 
-## Previous Projects
 <a style="clear:left;font-size:25px;"  href="https://github.com/shivupa/QMMM_study_group"><b>QM/MM Study Group</b> </a>   
 This was a graduate student run group with the aim of providing python notebooks and scripts to incoming graduate students at Pitt with the hope that it would make the transition into computational chemistry a bit easier.

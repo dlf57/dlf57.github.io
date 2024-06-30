@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Dakota Folmsbee"
   avatar           : "/assets/images/dlf.png"
-  bio              : "Postdoctoral Scholar at the University of Pittsburgh"
-  location         : "Pittsburgh, PA"
+  bio              : "Computational Chemist/Materials Scientist"
+  location         : "Longmont, Co"
   email            : "dfolmsbee@gmail.com"
   links:
     - label: "GitHub"
@@ -119,9 +119,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dakota-folmsbee-b610645a"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/folmsbeedak"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/folmsbeedak"
 
 # Site Footer
 footer:
