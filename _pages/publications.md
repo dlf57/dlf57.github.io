@@ -10,11 +10,11 @@ categories: pages
 #     title: ""
 #     excerpt: "**.** []()"
 
-2022_qtdg:
+2023_qtdg:
   - image_path: /assets/images/qtdg-toc.png
-    alt: "2022_qtdg"
+    alt: "2023_qtdg"
     title: "Systematic Comparison of Experimental Crystallographic Geometries and Gas-Phase Computed Conformers for Torsion Preferences"
-    excerpt: "**6.** [Folmsbee, D., Koes, D., Hutchison, G. Systematic Comparison of Experimental Crystallographic Geometries and Gas-Phase Computed Conformers for Torsion Preferences. ChemRxiv. 2022.](https://doi.org/10.26434/chemrxiv-2022-h9gjq)"
+    excerpt: "**6.** [Folmsbee, D., Koes, D., Hutchison, G. Systematic Comparison of Experimental Crystallographic Geometries and Gas-Phase Computed Conformers for Torsion Preferences.  J. Chem. Inf. Model. 2023](https://doi.org/10.1021/acs.jcim.3c01278)"
 
 2022_polarizability:
   - image_path: /assets/images/polarizability-toc.png
@@ -53,6 +53,7 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2023" class="btn btn--info">2022</a></th>
     <th><a href="#2022" class="btn btn--info">2022</a></th>
     <th><a href="#2021" class="btn btn--info">2021</a></th>
     <th><a href="#2020" class="btn btn--info">2020</a></th>
@@ -61,8 +62,10 @@ Publications
   </tr>
 </table>
 
+## 2023
+{% include feature_row id="2023_qtdg" type="left" %}
+
 ## 2022
-{% include feature_row id="2022_qtdg" type="left" %}
 {% include feature_row id="2022_polarizability" type="left" %}
 
 ## 2021
