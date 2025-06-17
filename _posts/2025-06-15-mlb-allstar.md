@@ -5,6 +5,8 @@ excerpt: "Select your votes for the upcoming 2025 All Star Game using batting an
 date:   2025-06-15
 categories: projects
 author_profile: true
+header:
+    teaser: /assets/images/al-allstar2025.png
 ---
 
 # Making My MLB All Star Selections with Data
