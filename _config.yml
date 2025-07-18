@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Dakota Folmsbee"
   avatar           : "/assets/images/dlf.png"
-  bio              : "Computational Chemist/Materials Scientist"
-  location         : "Longmont, Co"
+  bio              : "Computational Chemist/Materials Scientist/Data Scientist"
+  location         : "Longmont, CO"
   email            : "dfolmsbee@gmail.com"
   links:
     - label: "GitHub"
