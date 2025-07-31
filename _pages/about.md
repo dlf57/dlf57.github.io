@@ -2,7 +2,7 @@
 layout: single
 title:  "About Me"
 permalink: /about/
-date:   2023-07-25
+date:   2025-07-18
 categories: pages
 ---
 

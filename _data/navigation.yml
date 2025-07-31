@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Hire Me!"
+    url: /hire-me/
   - title: "About Me"
     url: /about/
   - title: "Research"
@@ -8,8 +10,8 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Resume"
-    url: "/assets/pdf/dlf57-resume.pdf"
+  # - title: "Resume"
+  #   url: "/assets/pdf/dlf57-resume.pdf"
   - title: "CV"
     url: "/assets/pdf/dlf57-cv.pdf"
 
