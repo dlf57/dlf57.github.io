@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dakota Folmsbee"
 description              : "Personal Website"
-url                      : "https://dlf57.github.io/"
+url                      : "https://dlf57.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dlf57/dlf57.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
