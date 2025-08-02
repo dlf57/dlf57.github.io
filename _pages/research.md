@@ -4,6 +4,7 @@ title:  "Research"
 permalink: /research/
 date:   2025-07-18
 categories: pages
+classes: wide
 ---
 
 

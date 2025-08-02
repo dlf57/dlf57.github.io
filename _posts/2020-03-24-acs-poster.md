@@ -5,6 +5,7 @@ excerpt: "Spring 2020 ACS COMP Poster Submission"
 date:   2020-03-24
 categories: research
 author_profile: true
+classes: wide
 header:
     teaser: /assets/pdf/dakota_folmsbee_ACS_Spring2020.png
 ---

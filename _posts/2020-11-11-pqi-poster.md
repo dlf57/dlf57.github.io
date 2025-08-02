@@ -5,6 +5,7 @@ excerpt: "PQI Quantum 2020 Poster Submission"
 date:   2020-11-11
 categories: research
 author_profile: true
+classes: wide
 header:
     teaser: /assets/pdf/folmsbee_dakota_quantum2020.png
 ---

@@ -5,6 +5,7 @@ excerpt: "chemreps is now in beta!"
 date:   2019-09-25
 categories: projects
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/chemreps.png
 ---

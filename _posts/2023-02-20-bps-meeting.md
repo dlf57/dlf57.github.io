@@ -5,6 +5,7 @@ excerpt: "Presented a poster in San Diego"
 date:   2023-02-20
 categories: publications
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/sd-poster.jpg
 ---

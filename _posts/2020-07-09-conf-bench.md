@@ -5,6 +5,7 @@ excerpt: "Conformer benchmark published in IJQC"
 date:   2020-07-09
 categories: publications
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/conf-ToC.png
 ---

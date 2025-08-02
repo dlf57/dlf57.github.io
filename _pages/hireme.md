@@ -4,6 +4,7 @@ title:  "Hire Me!"
 permalink: /hire-me/
 date:   2025-07-30
 categories: pages
+classes: wide
 ---
 
 I'm a PhD-trained computational scientist with a background in chemistry, materials science, and machine learning. For over seven years, I've worked across academia and industry to develop tools and models that accelerate scientific discovery. My work has ranged from predicting concrete formulations and small molecules to screening drug candidates using large compound libraries.

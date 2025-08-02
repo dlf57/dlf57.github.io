@@ -5,6 +5,7 @@ excerpt: "Presented a poster and oral presentation in Indianapolis"
 date:   2023-03-27
 categories: research
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/ACSSpring2023.png
 ---

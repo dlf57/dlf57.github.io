@@ -5,6 +5,7 @@ excerpt: "Conformer benchmark now on ChemRxiv"
 date:   2020-03-03
 categories: publications
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/conf-toc.png
 ---

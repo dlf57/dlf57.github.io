@@ -4,6 +4,7 @@ title:  "About Me"
 permalink: /about/
 date:   2025-07-18
 categories: pages
+classes: wide
 ---
 
 <img src="/assets/images/colton-dakota.jpg" width="150"/>

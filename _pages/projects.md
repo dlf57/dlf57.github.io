@@ -4,6 +4,7 @@ title:  "Projects"
 permalink: /projects/
 date:   2019-09-24
 categories: pages
+classes: wide
 ---
 
 These are side projects that I work on or have worked on outside of my research project.

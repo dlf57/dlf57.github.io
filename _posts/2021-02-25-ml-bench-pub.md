@@ -5,6 +5,7 @@ excerpt: "Machine Learning Evaluation published in J. Chem. Phys. A"
 date:   2021-02-25
 categories: publications
 author_profile: true
+classes: wide
 header:
     teaser: /assets/images/CNN-ToC.png
 ---
