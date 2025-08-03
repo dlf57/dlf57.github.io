@@ -36,3 +36,17 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
+
+{% if include.type == "list" %}
+<article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    {% if post.header.teaser %}
+    <div class="archive__item-teaser">
+        <img src="{{ post.header.teaser | relative_url }}" alt="">
+    </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    {% include page__meta.html type="list" %}
+</article>
+{% endif %}
