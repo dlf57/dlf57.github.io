@@ -15,7 +15,7 @@ I'm a PhD-trained computational scientist with a background in chemistry, materi
 - Automate R&D workflows with custom data pipelines and HPC tools
 - Translate complex scientific problems into scalable software solutions
 
-I’m comfortable working in Python, R, and SQL, with experience in libraries like Scikit-learn, PyTorch, Pandas, RDKit, and more. I’ve deployed tools in HPC and cloud-like environments and enjoy collaborating across interdisciplinary teams.
+I’m comfortable working in Python, R, and SQL, with experience in libraries like Scikit-learn, PyTorch, TensorFolw, Keras, Pandas, RDKit, and more. I’ve deployed tools in HPC and cloud-like environments and enjoy collaborating across interdisciplinary teams.
 
 ### What I’m Looking For
 I'm open to full-time roles, collaborations, or freelance projects in the following areas:
