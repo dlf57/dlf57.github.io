@@ -78,3 +78,9 @@ Professional Certificates
     href="/assets/pdf/certifications/sololearn_cpp.pdf">View Certificate</a>
   <h3 style="margin: 0;">C++</h3>
 </div>
+
+<div style="display: flex; align-items: center; center; gap: 0.5rem;">
+  <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
+    href="/assets/pdf/certifications/sololearn_sql.pdf">View Certificate</a>
+  <h3 style="margin: 0;">SQL</h3>
+</div>
