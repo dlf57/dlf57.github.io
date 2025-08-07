@@ -79,6 +79,11 @@ Professional Certificates
   <h3 style="margin: 0;">Course 2: Deep Learning with Keras and Tensorflow</h3>
 </div>
 
+<div style="display: flex; align-items: center; center; gap: 0.5rem;">
+  <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
+    href="/assets/pdf/certifications/ibm_intro_nn_pytorch.pdf">View Certificate</a>
+  <h3 style="margin: 0;">Course 3: Introduction to Neural Networks and PyTorch</h3>
+</div>
 
 
 <h2 id="sololearn">
