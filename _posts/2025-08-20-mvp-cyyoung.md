@@ -51,7 +51,7 @@ Baseball award races are always full of debate, but what if we could take a more
 
 | Rank | Player | Similarity |
 |--|--|--|
-| 1st | Tarik Kubal  | 0.35 |
+| 1st | Tarik Skubal  | 0.35 |
 | 2nd | Garret Crochet | 0.30 |
 | 3rd | Jacob deGrom | 0.26 |
 
