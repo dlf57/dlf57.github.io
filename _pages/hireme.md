@@ -28,7 +28,7 @@ I'm open to full-time roles, collaborations, or freelance projects in the follow
 - **Concrete Mix Optimization Dashboard** – Built a production-ready ML pipeline and dashboard for analyzing concrete mix designs at Prometheus Materials
 - [**chemreps**](https://github.com/chemreps/chemreps) – Created an open-source library for generating molecular representations for ML in chemistry
 - **Drug Discovery Pipeline** - Led virtual screens of over 100,000 compounds and modeled protein-ligand systems during my postdoc
-- [**Conformer Benchmark**](https://github.com/dlf57/conformer-benchmark) - Compared state-of-the-art ML models conformer energy predictions to conventional quantum mechanical approaches
+- [**Conformer Benchmark**](https://github.com/ghutchis/conformer-benchmark) - Compared state-of-the-art ML models conformer energy predictions to conventional quantum mechanical approaches
 - [**ML Benchmark**](https://github.com/dlf57/ml-benchmark) - Evaluated ML performance on potential energy curves and geometry optimization 
 - [**QTDG**](https://github.com/dlf57/quantum-torsions) - Analyzed torsion angle preferences by comparing crystal structures with gas-phase conformers to create a distance geometry coordinate generation method
 
