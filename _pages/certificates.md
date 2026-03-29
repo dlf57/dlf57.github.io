@@ -15,6 +15,7 @@ Professional Certificates
     <th><a href="#ibm-deep-learning" class="btn btn--info">IBM Deep Learning</a></th>
     <th><a href="#google-data-analytics" class="btn btn--info">Google Data Analytics</a></th>
     <th><a href="#sololearn" class="btn btn--info">Sololearn Coding Courses</a></th>
+    <th><a href="#Coddy" class="btn btn--info">Coddy.Tech Coding Courses</a></th>
   </tr>
 </table>
 
@@ -114,4 +115,26 @@ Professional Certificates
   <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
     href="/assets/pdf/certifications/sololearn_sql.pdf">View Certificate</a>
   <h3 style="margin: 0;">SQL</h3>
+</div>
+
+<h2 id="Coddy">
+  <a href="https://coddy.tech/user/dlf57">Coddy.Tech Coding Courses</a>
+</h2>
+
+<div style="display: flex; align-items: center; center; gap: 0.5rem;">
+  <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
+    href="/assets/pdf/certifications/coddy-rust-fundamentals.pdf">View Certificate</a>
+  <h3 style="margin: 0;">Rust: Fundamentals</h3>
+</div>
+
+<div style="display: flex; align-items: center; center; gap: 0.5rem;">
+  <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
+    href="/assets/pdf/certifications/coddy-rust-logicflow.pdf">View Certificate</a>
+  <h3 style="margin: 0;">Rust: Logic & Flow</h3>
+</div>
+
+<div style="display: flex; align-items: center; center; gap: 0.5rem;">
+  <a class="btn btn--primary" style="font-size: 0.6rem; padding: 0.15rem 0.5rem;" 
+    href="/assets/pdf/certifications/coddy-rust-oop.pdf">View Certificate</a>
+  <h3 style="margin: 0;">Rust: Object Oriented Programming</h3>
 </div>

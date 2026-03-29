@@ -10,6 +10,11 @@ classes: wide
 These are side projects that I work on or have worked on outside of my research project.
 
 ## Current Projects
+<div style="font-size:0;">
+    <img src="/assets/images/ffo.jpeg" width="200">
+</div>
+<a style="clear:left;font-size:25px;"><b>Folmsbee Front Office (Coming Soon)</b> </a>   
+Folmsbee Front Office is an advanced baseball analytics web application that provides a suite of tools for evaluating player performance, generating custom fantasy rankings, identifying breakout candidates, modeling player similarities, and tracking major award races.
 
 <div style="font-size:0;">
     <img src="/assets/images/diamondfp.png" width="120">
